@@ -40,7 +40,5 @@ public class GetBrandsListTest  extends ApiBaseTest {
         Assert.assertTrue(brandCount > 0, "Brands list should not be empty");
 
         response.prettyPrint();
-
-        Assert.fail();
     }
 }
