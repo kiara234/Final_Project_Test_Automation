@@ -39,6 +39,6 @@ public class VerifyTestCases extends BaseTest {
                 .navigateToHomePage()
                 .navigateToTestCases();
 
-        Assert.assertEquals(driver.getCurrentUrl(), "https://automationexercise.com/test_case");
+        Assert.assertEquals(driver.getCurrentUrl(), "https://automationexercise.com/test_cases");
     }
 }
