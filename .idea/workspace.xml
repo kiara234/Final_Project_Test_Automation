@@ -62,6 +62,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nnica\OneDrive\Desktop\Final_Project_Test_Automation\src\test\java\tests" />
+      <recent name="C:\Users\nnica\OneDrive\Desktop\Final_Project_Test_Automation\src\test\java\tests\UI" />
+      <recent name="C:\Users\nnica\OneDrive\Desktop\Final_Project_Test_Automation\src\test\java\tests\API" />
+      <recent name="C:\Users\nnica\OneDrive\Desktop\Final_Project_Test_Automation\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nnica\OneDrive\Desktop\Final_Project_Test_Automation\src\test" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Final_Project_Test_Automation" />
