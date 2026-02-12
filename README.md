@@ -1,35 +1,42 @@
-Final Project 
-1. Lika Tcholokava
-   API:
-   BrandsListNegativeTest
-   GetBrandsListTest
-   GetProductListTest
-   
-   UI:
-   ContactUsTest
-   LoginInvalidTest
-   LoginValidTest
-   
-3. Lizi Chkheidze
-   API:
-   ProductsListTestNG
-   SearchProductNegativeTest
-   SearchProductTest
-   
-   UI:
-   LogoutTest
-   RegisterUserTest
-   ScrollTestDown
-   
-5. Mariam Tsotskhalashvili
-   API:
-   VerifyLoginAPITests
-   VerifyLoginNegativeTest
-   VerifyLoginTest
-   VerifyLoginUnsupportedMethodTest
-   
-   UI:
-   ScrollTestUp
-   SearchProductTest
-   VerifyProductQuantity
-   VerifyTestCases
+Final Project – Test Overview
+
+//////////////////////////////////////////////////
+Lika Tcholokava
+
+API Tests:
+BrandsListNegativeTest
+GetBrandsListTest
+GetProductListTest
+
+UI Tests:
+ContactUsTest
+LoginInvalidTest
+LoginValidTest
+
+//////////////////////////////////////////////////
+Lizi Chkheidze
+
+API Tests:
+ProductsListTestNG
+SearchProductNegativeTest
+SearchProductTest
+
+UI Tests:
+LogoutTest
+RegisterUserTest
+ScrollTestDown
+
+//////////////////////////////////////////////////
+Mariam Tsotskhalashvili
+
+API Tests:
+VerifyLoginAPITests
+VerifyLoginNegativeTest
+VerifyLoginTest
+VerifyLoginUnsupportedMethodTest
+
+UI Tests:
+ScrollTestUp
+SearchProductTest
+VerifyProductQuantity
+VerifyTestCases
